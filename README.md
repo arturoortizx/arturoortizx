@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arturoortizx or Arturo Ortiz San Miguel
 - 👀 I’m interested in math and Puerto Rico
-- 🌱 I’m currently learning Complex Analysis and how to teach effectively
+- 🌱 I aspire to study graduate mathematics
 - 📫 How to reach me: arturo_ortiz@brown.edu
 
 <!---
